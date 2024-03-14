@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	int x, floaty;
+	cout<<"Введите x"
+	cin>> x;
+	y = (2ctg(3*x)- 1/12*paw(x,2) + 7 * x - 5);
+	cout<<y;
+	return 0;
+}
