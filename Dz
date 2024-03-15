@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-	int x, floaty y;
+	int x, float y;
 	cout<<"Введите x"
 	cin>> x;
 	y = (2ctg(3*x)- 1/12*paw(x,2) + 7 * x - 5);
