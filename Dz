@@ -6,7 +6,7 @@ int main() {
 	int x, float y;
 	cout<<"Введите x"
 	cin>> x;
-	y = (2ctg(3*x)- 1/12*paw(x,2) + 7 * x - 5);
+	y = (2ctg(3*x)-(1/12*paw(x,2) + 7 * x - 5)) ;
 	cout<<y;
 	return 0;
 }
